@@ -1,6 +1,8 @@
 # DT3-pdf-metadate
 AppleScript to take PDF metadata and update its entry in DEVONThink 3. Sometimes it is imported with only the Finder metadata.
 
+To prevent this on import, you need to use the hidden preference UsePDFDocumentDates by running this in the terminal: `defaults write com.devon-technologies.think3 UsePDFDocumentDates -bool TRUE`, but that doesn't always affect already imported PDFs.
+
 ## Install
 This AppleScript relies on exiftool. Best option is to install via homebrew:
 `brew install exiftool`
