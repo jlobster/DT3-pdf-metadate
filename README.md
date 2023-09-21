@@ -13,4 +13,4 @@ Drop the script in `~/Library/Application Scripts/com.devon-technologies.think3/
 Select the PDFs you want to scan and change in your DEVONThink library and select the script from the AppleScript menu (represented by an icon).
 
 ## Known Issues
-**Error checking**: If it can not get either a created or modified date, it will error out and stop the entire process. Working on that next.
+**exiftool Path**: Working on better detection of `which exiftool`.
