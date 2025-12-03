@@ -1,3 +1,5 @@
+This has been archived, but a copy has been moved to https://github.com/jlobster/dt-scripts
+
 # NOTE: THIS IS FOR INFORMATIONAL AND SUPPLEMENTAL PURPOSES ONLY
 It is now an official feature in DT4 Settings > Files > Import > Dates: ✅ Use content creation & modification dates
 (and was introduced as a Hidden Preference in DT3 - see below)
